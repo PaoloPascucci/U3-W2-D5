@@ -1,0 +1,19 @@
+.todoList { 
+height: 800px;
+ul {
+    list-style: none;
+    li {
+        span {
+            cursor: pointer;
+        }
+    }
+}
+}
+.btn-warning, input{
+    height: 40px;
+    vertical-align: middle;
+    margin: 5px;
+}
+input {
+    border: 1px solid lightgray;
+}

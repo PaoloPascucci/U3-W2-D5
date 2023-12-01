@@ -1,0 +1,11 @@
+.todoList {
+    height: 800px;
+    ul {
+        list-style: none;
+        li {
+            span {
+                cursor: pointer;
+            }
+        }
+    }
+}
